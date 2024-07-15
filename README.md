@@ -10,6 +10,8 @@ My main goal in this project was to get insights from the data about the traffic
 4) The weekday traffic is mostly due to commiting to and from work.
 
 
+
 References:
-This project was inspired by Jake VanderPlas's analysis of the same data for different dates (can be found at https://github.com/jakevdp)
+
+This project was inspired by Jake VanderPlas's analysis of the same data for different dates (can be found at https://github.com/jakevdp). 
 A more elaborated analysis of the bicycle traffic in Seattle can be found at https://jakevdp.github.io/blog/2014/06/10/is-seattle-really-seeing-an-uptick-in-cycling/  
