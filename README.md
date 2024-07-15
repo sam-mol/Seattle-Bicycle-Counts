@@ -2,7 +2,7 @@
 Time series analysis is an important topic in data science, and understanding the fundamentals of time series analysis is a useful skill for a data scientist to master. 
 In this project I analyze time series data collected from an automated bicycle counter installed at Fremont Bridge in Seattle. The dataset can be downloaded from http://data.seattle.gov. 
 
-My main goal in this project was to get insights from the data about the traffic patterns. By cleaning the data and using plotting tools from Pandas I found a few important patterns of the bicycle traffic at Fremont Bridge in Seattle:
+My main goal in this project was to get insights from the data about the bicycle traffic patterns. By cleaning the data and using plotting tools from Pandas I found a few important patterns of the bicycle traffic at Fremont Bridge in Seattle:
 
 1) There are seasonal variations in the traffic, more traffic in summer months compared to winter ones.
 2) The effect of COVID-19 pandemic on the cycling traffic can be clearly observed starting in early 2020. 
