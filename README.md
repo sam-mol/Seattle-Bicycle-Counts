@@ -1,4 +1,4 @@
-# Seattle-Bicycle-Counts
+
 Time series analysis is an important topic in data science, and understanding the fundamentals of time series analysis is a useful skill for a data scientist to master. 
 In this project I analyze time series data collected from an automated bicycle counter installed at Fremont Bridge in Seattle. The dataset can be downloaded from http://data.seattle.gov. 
 
